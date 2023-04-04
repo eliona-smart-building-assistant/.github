@@ -1,1 +1,3 @@
 ![The human being at the center of a smart infrastructure](https://raw.githubusercontent.com/eliona-smart-building-assistant/.github/main/profile/eliona.png)
+
+[Eliona](https://www.eliona.io/en) is the driving force for your smart building project. With our software, we make the data streams in your building or infrastructure visible and individually available for each user. This gives you a cross-interface smart building assistant for monitoring, controlling and analyzing IoT, HVACSE and IT. As a full-service provider, we also support you with selected hardware from Tridium® Niagara® and iSMA Controlli in your project.
