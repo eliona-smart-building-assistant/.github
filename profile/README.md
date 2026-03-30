@@ -1,3 +1,3 @@
-![The human being at the center of a smart infrastructure]([https://www07.abb.com/images/librariesprovider84/home-page/topbanner_buildingpro.jpg?Culture=en&sfvrsn=85990e0d_1)])
+![The human being at the center of a smart infrastructure](https://www07.abb.com/images/librariesprovider84/home-page/topbanner_buildingpro.jpg?Culture=en&sfvrsn=85990e0d_1)
 
 [BuildingPro Suites]([https://www.eliona.io/en](https://new.abb.com/low-voltage/products/building-automation/product-range/abb-ability-buildingpro/buildingpro-suites)) is the driving force for your smart building project. With our software, we make the data streams in your building or infrastructure visible and individually available for each user. This gives you a cross-interface smart building assistant for monitoring, controlling and analyzing IoT, HVACSE and IT. As a full-service provider, we also support you with selected hardware from Tridium® Niagara® and iSMA Controlli in your project.
